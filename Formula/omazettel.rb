@@ -3,8 +3,8 @@
 class Omazettel < Formula
   desc "Notes app for a folder of Markdown notes, with wiki links, tags and git sync"
   homepage "https://github.com/mcsmith3/omazettel"
-  url "https://github.com/mcsmith3/omazettel/archive/refs/tags/omazettel-v0.12.0.tar.gz"
-  sha256 "e2dc1a281f39d23c6da97f90942ea3d80c9441839c0d169ed95d54c503023f14"
+  url "https://github.com/mcsmith3/omazettel/archive/refs/tags/omazettel-v0.13.0.tar.gz"
+  sha256 "451b996ea0ff7bf37b9148c1563bbf64e96ebe22bff62483e27b70e82f5a5e91"
   license all_of: ["GPL-3.0-or-later", "MIT"]
   head "https://github.com/mcsmith3/omazettel.git", branch: "master"
 
