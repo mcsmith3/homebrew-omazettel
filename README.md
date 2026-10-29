@@ -30,7 +30,7 @@ For each OmaZettel release, update `url` and `sha256` in
 `Formula/omazettel.rb`:
 
 ```sh
-v=0.13.0
+v=0.13.1
 url="https://github.com/mcsmith3/omazettel/archive/refs/tags/omazettel-v$v.tar.gz"
 curl -fsSL "$url" | shasum -a 256
 ```
